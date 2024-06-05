@@ -1,0 +1,2191 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.12.18)  12 JUL 2022 21:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template_Article.tex
+(./template_Article.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexart.cls
+(c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count163
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count164
+\g__pdf_backend_annotation_int=\count165
+))
+Document Class: ctexart 2019/05/29 v2.4.16 Chinese adapter for class article (C
+TEX)
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count166
+\g__xparse_grabber_int=\count167
+\l__xparse_m_args_int=\count168
+\l__xparse_v_nesting_int=\count169
+)
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(c:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count170
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_section_depth_int=\count171
+\g__ctex_font_size_int=\count172
+
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/05/29 v2.4.16 XeLaTeX adapter (CTEX)
+
+(c:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2020/02/18 v3.8.2 Typesetting CJK scripts with XeLaTeX
+
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen136
+\l__xtemplate_tmp_int=\count181
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count182
+\l__xeCJK_tmp_box=\box47
+\l__xeCJK_tmp_dim=\dimen137
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count183
+\l__xeCJK_begin_int=\count184
+\l__xeCJK_end_int=\count185
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count186
+\c__xeCJK_CJK_node_dim=\dimen138
+\c__xeCJK_CJK-space_node_dim=\dimen139
+\c__xeCJK_default_node_dim=\dimen140
+\c__xeCJK_default-space_node_dim=\dimen141
+\c__xeCJK_CJK-widow_node_dim=\dimen142
+\c__xeCJK_normalspace_node_dim=\dimen143
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count187
+\l__xeCJK_last_bound_dim=\dimen144
+\l__xeCJK_last_kern_dim=\dimen145
+\l__xeCJK_widow_penalty_int=\count188
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2302.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen146
+\l__xeCJK_mixed_punct_width_dim=\dimen147
+\l__xeCJK_middle_punct_width_dim=\dimen148
+\l__xeCJK_fixed_margin_width_dim=\dimen149
+\l__xeCJK_mixed_margin_width_dim=\dimen150
+\l__xeCJK_middle_margin_width_dim=\dimen151
+\l__xeCJK_bound_punct_width_dim=\dimen152
+\l__xeCJK_bound_margin_width_dim=\dimen153
+\l__xeCJK_margin_minimum_dim=\dimen154
+\l__xeCJK_kerning_total_width_dim=\dimen155
+\l__xeCJK_same_align_margin_dim=\dimen156
+\l__xeCJK_different_align_margin_dim=\dimen157
+\l__xeCJK_kerning_margin_width_dim=\dimen158
+\l__xeCJK_kerning_margin_minimum_dim=\dimen159
+\l__xeCJK_bound_dim=\dimen160
+\l__xeCJK_reverse_bound_dim=\dimen161
+\l__xeCJK_margin_dim=\dimen162
+\l__xeCJK_minimum_bound_dim=\dimen163
+\l__xeCJK_kerning_margin_dim=\dimen164
+\g__xeCJK_family_int=\count189
+\l__xeCJK_fam_int=\count190
+\g__xeCJK_fam_allocation_int=\count191
+\l__xeCJK_verb_case_int=\count192
+\l__xeCJK_verb_exspace_skip=\skip55
+
+(c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count193
+\l__fontspec_language_int=\count194
+\l__fontspec_strnum_int=\count195
+\l__fontspec_tmp_int=\count196
+\l__fontspec_tmpa_int=\count197
+\l__fontspec_tmpb_int=\count198
+\l__fontspec_tmpc_int=\count199
+\l__fontspec_em_int=\count266
+\l__fontspec_emdef_int=\count267
+\l__fontspec_strong_int=\count268
+\l__fontspec_strongdef_int=\count269
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(c:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/02/18 v3.8.2 Configuration file for xeCJK package
+))
+(c:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2020/02/18 v3.8.2 xeCJK font effect
+
+(c:/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip56
+\UL@hook=\toks15
+\UL@height=\dimen168
+\UL@pe=\count270
+\UL@pixel=\dimen169
+\ULC@box=\box50
+Package: ulem 2019/11/18
+\ULdepth=\dimen170
+)
+\l__xeCJK_space_skip=\skip57
+\c__xeCJK_ulem-begin_node_dim=\dimen171
+\c__xeCJK_null_box=\box51
+\l__xeCJK_fntef_box=\box52
+\l__xeCJK_under_symbol_box=\box53
+\c__xeCJK_filll_skip=\skip58
+)
+\ccwd=\dimen172
+\l__ctex_ccglue_skip=\skip59
+)
+\l__ctex_ziju_dim=\dimen173
+
+(c:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count271
+
+(c:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip60
+
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.d
+ef
+File: ctex-scheme-chinese-article.def 2019/05/29 v2.4.16 Chinese scheme for art
+icle (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+))
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2019/05/29 v2.4.16 c5size option (CTEX)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2019/05/29 v2.4.16 Windows fonts definition (CTE
+X)
+
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2019/05/29 v2.4.16 Windows fonts definition f
+or Vista or later version (CTEX)
+
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+))) (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/ctex.sty
+
+LaTeX Warning: You have requested package `CTEX',
+               but the package provides `ctex'.
+
+Package: ctex 2019/05/29 v2.4.16 Chinese adapter in LaTeX (CTEX)
+
+! LaTeX3 Error: Control sequence \c__ctex_version_tl already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.36 ... \@currname . \@currext } { 9999/99/99 } }
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\c__ctex_version_tl'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->2019/05/29 v2.4.16 Chinese adapter for class article (CTEX)
+
+
+
+! Package ctex Error: Package `ctexsize' can not be loaded with `ctex'.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.45 ...ze. \@pkgextension } \c__ctex_version_tl }
+                                                  
+
+`ctexsize' is actually a part of `ctex'.
+It is not necessary to load it separately.
+
+
+
+! Package ctex Error: Package `ctexheading' can not be loaded with `ctex'.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.48 ...ng. \@pkgextension } \c__ctex_version_tl }
+                                                  
+
+`ctexheading' is actually a part of `ctex'.
+It is not necessary to load it separately.
+
+
+
+! LaTeX3 Error: Message 'l3-too-old' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.50 \msg_new:nnnn { ctex } { l3-too-old }
+                                          
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'l3-too-old'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Control sequence \c__ctex_engine_str already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.60 ...ngostype { aptex } { \c_sys_engine_str } }
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\c__ctex_engine_str'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->xetex
+
+
+
+! LaTeX3 Error: Message 'engine-not-supported' for module 'ctex' already
+(LaTeX3)        defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.61 ...new:nnnn { ctex } { engine-not-supported }
+                                                  
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'engine-not-supported'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Control sequence \c__ctex_engine_file_str already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.69 ...-not-supported } { \c__ctex_engine_str } }
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__ctex_engine_file_str' but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->ctex-engine-xetex.def
+
+
+
+! LaTeX3 Error: Control sequence \l__ctex_tmp_int already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.73 \int_new:N \l__ctex_tmp_int
+                                
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\l__ctex_tmp_int' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \count170
+
+
+\l__ctex_tmp_int=\count272
+
+! LaTeX3 Error: Control sequence \l__ctex_tmp_box already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.74 \box_new:N \l__ctex_tmp_box
+                                
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\l__ctex_tmp_box' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \char"2E
+
+
+\l__ctex_tmp_box=\box54
+
+! LaTeX3 Error: Control sequence \l__ctex_tmp_dim already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.75 \dim_new:N \l__ctex_tmp_dim
+                                
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\l__ctex_tmp_dim' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \dimen134
+
+
+\l__ctex_tmp_dim=\dimen174
+
+! LaTeX3 Error: Control sequence \ctex_file_wrapper:nnn already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.76 \cs_new_protected:Npn \ctex_file_wrapper:nnn
+                                                  #1#2#3
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_file_wrapper:nnn'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected\long macro:#1#2#3->\use:x {\ExplSyntaxOff
+\char_set_catcode_letter:n {64}#1\exp_not:n {#2}\bool_if:NTF
+\l__kernel_expl_bool {\ExplSyntaxOn }{\ExplSyntaxOff }\char_set_catcode:nn
+{64}{\char_value_catcode:n {64}}#3}
+
+
+
+! LaTeX3 Error: Control sequence \ctex_file_input:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.91 ...new_protected_nopar:Npn \ctex_file_input:n
+                                                   #1
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_file_input:n' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1->\ctex_file_wrapper:nnn {}{\file_input:n {#1}}{}
+
+
+
+! LaTeX3 Error: Control sequence \ctex_scheme_input:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.93 ...w_protected_nopar:Npn \ctex_scheme_input:n
+                                                   #1
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_scheme_input:n'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1->\ctex_file_wrapper:nnn {}{\tl_if_exist:NTF
+\c__ctex_class_tl {\file_if_exist_input:nF {ctex-scheme-#1-\c__ctex_class_tl
+.def}{\file_input:n {ctex-scheme-#1.def}}}{\file_input:n
+{ctex-scheme-#1.def}}}{}
+
+
+
+! LaTeX3 Error: Control sequence \g__ctex_section_depth_int already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.108 \int_new:N \g__ctex_section_depth_int
+                                           
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\g__ctex_section_depth_int' but this name has already been used elsewhere.
+
+The current meaning is:
+  \count171
+
+
+\g__ctex_section_depth_int=\count273
+
+! LaTeX3 Error: Message 'package-too-old' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.110 \msg_new:nnnn { ctex } { package-too-old }
+                                                
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'package-too-old'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Control sequence \ifctexpdf already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.118   { \cs_new_eq:NN \ifctexpdf \if_false: }
+                                               
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ifctexpdf' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  \iffalse
+
+
+
+! LaTeX3 Error: Control sequence \ctex_if_preamble:TF already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.119 \cs_new_eq:NN \ctex_if_preamble:TF
+                                         \use_i:nn
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_if_preamble:TF'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \long macro:#1#2->#1
+
+
+
+! LaTeX3 Error: Control sequence \ctex_set_default_ccwd:Nn already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.121 ...w_protected:Npn \ctex_set_default_ccwd:Nn
+                                                   #1#2
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\ctex_set_default_ccwd:Nn' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected\long macro:#1#2->\tl_set:Nx #1{\__ctex_default_ccwd_aux:n {#2}}
+
+
+
+! LaTeX3 Error: Control sequence \__ctex_default_ccwd_aux:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.123 \cs_new:Npn \__ctex_default_ccwd_aux:n
+                                             #1
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\__ctex_default_ccwd_aux:n' but this name has already been used elsewhere.
+
+The current meaning is:
+  \long macro:#1->\exp_not:n {#1}\exp_after:wN \__ctex_default_ccwd_aux:w
+\dim_use:N \tex_dimexpr:D #1pt\scan_stop: \q_stop 
+
+
+
+! LaTeX3 Error: Control sequence \__ctex_default_ccwd_aux:w already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.130 ...ult_ccwd_aux:w #1 { \tl_to_str:n { pt } }
+                                                   #2 \q_stop
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\__ctex_default_ccwd_aux:w' but this name has already been used elsewhere.
+
+The current meaning is:
+  \long macro:#1pt#2\q_stop ->\tl_if_empty:nT {#2}{\ccwd }
+
+
+
+! LaTeX3 Error: Control sequence \l__ctex_encoding_tl already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.132 \tl_new:N \l__ctex_encoding_tl
+                                    
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\l__ctex_encoding_tl'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->UTF8
+
+
+
+! LaTeX3 Error: Control sequence \g__ctex_zhmCJK_bool already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.135 \bool_new:N \g__ctex_zhmCJK_bool
+                                      
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\g__ctex_zhmCJK_bool'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \char"0
+
+
+
+! LaTeX3 Error: Control sequence \l__ctex_autoindent_tl already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.136 \tl_new:N \l__ctex_autoindent_tl
+                                      
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\l__ctex_autoindent_tl'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->2\ccwd 
+
+
+
+! LaTeX3 Error: Control sequence \ctex_if_autoindent_touched:F already
+(LaTeX3)        defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.137 \cs_new_eq:NN \ctex_if_autoindent_touched:F
+                                                  \use:n
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\ctex_if_autoindent_touched:F' but this name has already been used elsewhere.
+
+The current meaning is:
+  \long macro:#1->#1
+
+
+
+! LaTeX3 Error: Control sequence \ctex_zhmap_case:nnn already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.138 \cs_new_eq:NN \ctex_zhmap_case:nnn
+                                         \use_ii:nnn
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_zhmap_case:nnn'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \long macro:#1#2#3->#2
+
+
+
+! LaTeX3 Error: Control sequence \ctex_at_end:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.139 \cs_new_protected_nopar:Npn \ctex_at_end:n
+                                                 { \AtEndOfPackage }
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_at_end:n' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\AtEndOfClass 
+
+
+
+! LaTeX3 Error: Message 'invalid-option' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.141 ...eys_key_tl'~is~invalid~in~current~mode. }
+                                                  
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'invalid-option'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Message 'invalid-value' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.143 ...s~invalid~for~the~key~`\l_keys_key_tl'. }
+                                                  
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'invalid-value'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Message 'deprecated-option' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.145 ... `\l_keys_key_tl'~ is~ deprecated.\\ #1 }
+                                                  
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'deprecated-option'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Message 'deprecated-command' for module 'ctex' already
+(LaTeX3)        defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.147   { Command~ #1 is~ deprecated.\\ #2 }
+                                            
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'deprecated-command'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Message 'deprecated-environment' for module 'ctex' already
+(LaTeX3)        defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.149 ...Environment~ `#1'~ is~ deprecated.\\ #2 }
+                                                  
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'deprecated-environment'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Control sequence \g__ctex_font_size_int already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.150 \int_new:N \g__ctex_font_size_int
+                                       
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\g__ctex_font_size_int'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \count172
+
+
+\g__ctex_font_size_int=\count274
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+)
+
+! LaTeX3 Error: Control sequence \ctex_hypersetup:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.369   }
+         
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_hypersetup:n' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1->\PassOptionsToPackage {#1}{hyperref}
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/05/29 v2.4.16 XeLaTeX adapter (CTEX)
+
+
+! LaTeX3 Error: Control sequence \ctex_detected_platform: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.41 ...otected_nopar:Npn \ctex_detected_platform:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\ctex_detected_platform:' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\file_if_exist:nTF {/dev/null}{\file_if_exist:nTF
+{nul:}{\file_if_exist:nTF {\c__ctex_upper_case_file_str }{\ctex_if_macosx:TF
+{mac}{windows}}{\ctex_if_macosx:TF {mac}{fandol}}}{\ctex_if_macosx:TF
+{mac}{fandol}}}{\tl_gset:Nn \g__ctex_fontset_tl {windows}}
+
+
+
+! LaTeX3 Error: Control sequence \c__ctex_upper_case_file_str already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.56 ...r_upper_case:n { \g_file_curr_name_str } }
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__ctex_upper_case_file_str' but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->CTEX-ENGINE-XETEX
+
+
+
+! LaTeX3 Error: Control sequence \ctex_if_macosx:TF already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.57 ...new_protected_nopar:Npn \ctex_if_macosx:TF
+                                                   #1#2
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_if_macosx:TF' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1#2->\file_if_exist:nTF {\c__ctex_macosx_file_str
+}{\tl_gset:Nn \g__ctex_fontset_tl {#1}}{\tl_gset:Nn \g__ctex_fontset_tl {#2}}
+
+
+
+! LaTeX3 Error: Control sequence \c__ctex_macosx_file_str already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.63 ...osx_file_str { /Library/Fonts/Songti.ttc }
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__ctex_macosx_file_str' but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->/Library/Fonts/Songti.ttc
+
+
+
+! LaTeX3 Error: Control sequence \__ctex_clear_fntef_color:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.74   }
+        
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\__ctex_clear_fntef_color:n' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1->\xeCJKsetup {#1/format={}}
+
+
+
+! LaTeX3 Error: Control sequence \CTEXunderdot already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.85   }
+        
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEXunderdot' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\msg_warning:nnnn
+{ctex}{deprecated-command}{\CTEXunderdot }{You can use the command with prefix
+\CJK instead.}\CJKunderdot 
+
+
+
+! LaTeX3 Error: Control sequence \CTEXunderline already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.85   }
+        
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEXunderline' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\msg_warning:nnnn
+{ctex}{deprecated-command}{\CTEXunderline }{You can use the command with
+prefix \CJK instead.}\CJKunderline 
+
+
+
+! LaTeX3 Error: Control sequence \CTEXunderdblline already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.85   }
+        
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEXunderdblline' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\msg_warning:nnnn
+{ctex}{deprecated-command}{\CTEXunderdblline }{You can use the command with
+prefix \CJK instead.}\CJKunderdblline 
+
+
+
+! LaTeX3 Error: Control sequence \CTEXunderwave already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.85   }
+        
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEXunderwave' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\msg_warning:nnnn
+{ctex}{deprecated-command}{\CTEXunderwave }{You can use the command with
+prefix \CJK instead.}\CJKunderwave 
+
+
+
+! LaTeX3 Error: Control sequence \CTEXsout already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.85   }
+        
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEXsout' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\msg_warning:nnnn {ctex}{deprecated-command}{\CTEXsout
+}{You can use the command with prefix \CJK instead.}\CJKsout 
+
+
+
+! LaTeX3 Error: Control sequence \CTEXxout already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.85   }
+        
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEXxout' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\msg_warning:nnnn {ctex}{deprecated-command}{\CTEXxout
+}{You can use the command with prefix \CJK instead.}\CJKxout 
+
+
+
+! LaTeX3 Error: Control sequence \CTEXfilltwosides already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.86 ..._protected_nopar:Npn { \CTEXfilltwosides }
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEXfilltwosides' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\msg_warning:nnnn
+{ctex}{deprecated-environment}{CTEXfilltwosides}{You can use `CJKfilltwosides'
+environment instead.}\CJKfilltwosides 
+
+
+
+! LaTeX3 Error: Control sequence \endCTEXfilltwosides already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.92 ...otected_nopar:Npn { \endCTEXfilltwosides }
+                                                   { \endCJKfilltwosides }
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\endCTEXfilltwosides'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\endCJKfilltwosides 
+
+
+
+! LaTeX3 Error: Control sequence \ctex_update_ccwd: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.93 ...new_protected_nopar:Npn \ctex_update_ccwd:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_update_ccwd:' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\hbox_set:Nn \l__ctex_tmp_box {\CJKglue }\dim_set:Nn
+\ccwd {\box_wd:N \l__ctex_tmp_box +\f@size \p@ }
+
+
+
+! LaTeX3 Error: Control sequence \ccwd already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.98 \dim_new:N \ccwd
+                     
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ccwd' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  \dimen172
+
+
+\ccwd=\dimen175
+
+! LaTeX3 Error: Control sequence \ctex_update_ccglue: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.99 ...w_protected_nopar:Npn \ctex_update_ccglue:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_update_ccglue:'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\cs_set_protected_nopar:Npn \CJKglue {\skip_horizontal:N
+\l__ctex_ccglue_skip }
+
+
+
+! LaTeX3 Error: Control sequence \l__ctex_ccglue_skip already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.104 \skip_new:N \l__ctex_ccglue_skip
+                                      
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\l__ctex_ccglue_skip'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \skip59
+
+
+\l__ctex_ccglue_skip=\skip61
+
+! LaTeX3 Error: Control sequence \ctex_if_ccglue_touched:TF already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.109   }
+         
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\ctex_if_ccglue_touched:TF' but this name has already been used elsewhere.
+
+The current meaning is:
+  \long macro:->\if_meaning:w \CJKglue \__ctex_ccglue: \prg_return_false:
+\else: \prg_return_true: \fi: \exp_end: 
+
+
+
+! LaTeX3 Error: Control sequence \ctex_update_em_unit: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.111 ...protected_nopar:Npn \ctex_update_em_unit:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_update_em_unit:'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\dim_set:Nn \ccwd {\f@size \p@ }
+
+
+
+! LaTeX3 Error: Control sequence \ctex_add_to_selectfont:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.113 ...w_protected:Npn \ctex_add_to_selectfont:n
+                                                   #1
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\ctex_add_to_selectfont:n' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected\long macro:#1->\cs_set_protected_nopar:Npx \CTEX@selectfont@hook
+{\exp_not:o {\CTEX@selectfont@hook #1}}
+
+
+
+! LaTeX3 Error: Control sequence \CTEX@selectfont@hook already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.118 \cs_new_eq:NN \CTEX@selectfont@hook
+                                          \prg_do_nothing:
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEX@selectfont@hook'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\cs_if_free:NF \size@update {\ctex_update_size: }
+
+
+
+! LaTeX3 Error: Control sequence \CTEX@selectfont@save already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.132 ...x_parse_name:NN \__ctex_tmp:N \selectfont
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEX@selectfont@save'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \long macro:->\ifx \f@linespread \baselinestretch \else \set@fontsize
+\baselinestretch \f@size \f@baselineskip \fi \xdef \font@name {\csname
+\curr@fontshape /\f@size \endcsname }\pickup@font \font@name \size@update
+\enc@update 
+
+
+)
+
+! LaTeX3 Error: Command '\ctexset' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.371 ...nd \ctexset { } { \keys_set:nn { ctex } }
+                                                  
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\ctexset' will not be altered.
+
+
+
+! LaTeX3 Error: Command '\CTEXsetup' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.377   }
+         
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\CTEXsetup' will not be altered.
+
+
+
+! LaTeX3 Error: Command '\CTEXoptions' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.383   }
+         
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\CTEXoptions' will not be altered.
+
+
+
+! LaTeX3 Error: Command '\CTEXsetfont' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.401 ...d \CTEXsetfont { } { \ctex_select_size: }
+                                                  
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\CTEXsetfont' will not be altered.
+
+
+
+! LaTeX3 Error: Control sequence \ctex_select_size: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.402 ...ew_protected_nopar:Npn \ctex_select_size:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_select_size:' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\cs_if_free:NTF \size@update {\ctex_update_size:
+}{\selectfont }
+
+
+
+! LaTeX3 Error: Control sequence \ctex_update_size: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.404 ...ew_protected_nopar:Npn \ctex_update_size:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_update_size:' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\tl_if_eq:NNTF \l__ctex_ziju_tl \c__ctex_zero_tl
+{\ctex_update_stretch: \ctex_update_parindent: }{\ctex_update_ziju: }
+
+
+
+! LaTeX3 Error: Control sequence \c__ctex_zero_tl already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.413 ...\c__ctex_zero_tl { \fp_use:N \c_zero_fp }
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\c__ctex_zero_tl' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0
+
+
+
+! LaTeX3 Error: Control sequence \l__ctex_ziju_tl already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.414 \tl_new:N \l__ctex_ziju_tl
+                                
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\l__ctex_ziju_tl' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0
+
+
+
+! LaTeX3 Error: Control sequence \l__ctex_line_stretch_tl already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.427 \tl_new:N \l__ctex_line_stretch_tl
+                                        
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\l__ctex_line_stretch_tl' but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->\ccwd 
+
+
+
+! LaTeX3 Error: Control sequence \ctex_update_stretch: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.429 ...protected_nopar:Npn \ctex_update_stretch:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_update_stretch:'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\ctex_update_em_unit: \dim_set:Nn \l__ctex_tmp_dim
+{\l__ctex_line_stretch_tl }\dim_compare:nNnTF \l__ctex_tmp_dim =\c_max_dim
+{\ctex_if_ccglue_touched:TF {\ctex_update_ccwd: }{\dim_set:Nn \l__ctex_tmp_dim
+{\baselinestretch \tex_glueexpr:D \f@baselineskip \scan_stop: }\skip_set:Nn
+\l__ctex_ccglue_skip {\c_zero_dim plus.08\l__ctex_tmp_dim
+}\ctex_update_ccglue: }}{\int_set:Nn \l__ctex_tmp_int {\tex_dimexpr:D
+\linewidth -\ccwd -\l__ctex_tmp_dim \scan_stop: }\tex_divide:D
+\l__ctex_tmp_int \ccwd \int_compare:nNnTF \l__ctex_tmp_int >\c_zero_int
+{\skip_set:Nn \l__ctex_ccglue_skip {\c_zero_dim plus\dim_eval:n {(\linewidth
+-\ccwd -\l__ctex_tmp_int \ccwd )/\l__ctex_tmp_int }}}{\skip_zero:N
+\l__ctex_ccglue_skip }\ctex_update_ccglue: }
+
+
+
+! LaTeX3 Error: Control sequence \ctex_update_parindent: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.464 ...otected_nopar:Npn \ctex_update_parindent:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\ctex_update_parindent:' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\tl_if_empty:NF \l__ctex_autoindent_tl {\dim_compare:nNnF
+\parindent =\c_zero_dim {\dim_set:Nn \parindent {\l__ctex_autoindent_tl }}}
+
+
+
+! LaTeX3 Error: Command '\ziju' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.473 ...x \ctex_ziju:n {#1} \tex_ignorespaces:D }
+                                                  
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\ziju' will not be altered.
+
+
+
+! LaTeX3 Error: Control sequence \ctex_ziju:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.474 \cs_new_protected_nopar:Npn \ctex_ziju:n
+                                               #1
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_ziju:n' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1->\tl_set:Nx \l__ctex_ziju_tl {\fp_eval:n
+{#1}}\ctex_select_size: 
+
+
+
+! LaTeX3 Error: Control sequence \ctex_update_ziju: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.479 ...ew_protected_nopar:Npn \ctex_update_ziju:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_update_ziju:' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\ctex_update_em_unit: \dim_set:Nn \l__ctex_ziju_dim
+{\l__ctex_ziju_tl \ccwd }\dim_add:Nn \ccwd {\l__ctex_ziju_dim
+}\dim_compare:nNnTF \ccwd >\c_zero_dim {\dim_set:Nn \l__ctex_tmp_dim
+{\linewidth -\ccwd +\l__ctex_ziju_dim }\int_set:Nn \l__ctex_tmp_int
+{\l__ctex_tmp_dim }\tex_divide:D \l__ctex_tmp_int \ccwd \dim_sub:Nn
+\l__ctex_tmp_dim {\l__ctex_tmp_int \ccwd }\dim_compare:nNnF \parindent
+=\c_zero_dim {\int_compare:nNnF \l__ctex_tmp_int <3{\int_sub:Nn
+\l__ctex_tmp_int {2}}}\skip_set:Nn \l__ctex_ccglue_skip {\l__ctex_ziju_dim
+plus\dim_eval:n {\l__ctex_tmp_dim /\l__ctex_tmp_int }minus\dim_min:nn
+{\dim_abs:n {\l__ctex_ziju_dim }}{(\ccwd -\l__ctex_tmp_dim )/(\l__ctex_tmp_int
++1)}}}{\skip_set:Nn \l__ctex_ccglue_skip {\l__ctex_ziju_dim
+}}\ctex_update_ccglue: \ctex_update_parindent: 
+
+
+
+! LaTeX3 Error: Control sequence \l__ctex_ziju_dim already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.508 \dim_new:N \l__ctex_ziju_dim
+                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\l__ctex_ziju_dim' but
+this name has already been used elsewhere.
+
+The current meaning is:
+  \dimen173
+
+
+\l__ctex_ziju_dim=\dimen176
+
+! LaTeX3 Error: Command '\CTEXindent' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.514   }
+         
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\CTEXindent' will not be altered.
+
+
+
+! LaTeX3 Error: Command '\CTEXnoindent' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.520   }
+         
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\CTEXnoindent' will not be altered.
+
+
+
+! LaTeX3 Error: Control sequence \chinese already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.523 \cs_new_nopar:Npn \chinese
+                                 { \zhnum_counter:n }
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\chinese' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->\zhnum_counter:n 
+
+
+
+! LaTeX3 Error: Control sequence \@chinese already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.524 \cs_new_eq:NN \@chinese
+                              \@zhnum
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\@chinese' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->\zhnum_int:n 
+
+
+
+! LaTeX3 Error: Control sequence \Chinese already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.525 \cs_new_eq:NN \Chinese
+                             \chinese
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\Chinese' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->\zhnum_counter:n 
+
+
+
+! LaTeX3 Error: Control sequence \CTEXcounter already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.526 \cs_new_eq:NN \CTEXcounter
+                                 \use_none:n
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\CTEXcounter' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  \long macro:#1->
+
+
+
+! LaTeX3 Error: Command '\CTEXnumber' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.537   { \protected@edef #1 { \zhnumber {#2} } }
+                                                 
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\CTEXnumber' will not be altered.
+
+
+
+! LaTeX3 Error: Command '\CTEXdigits' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.539   { \protected@edef #1 { \zhdigits {#2} } }
+                                                 
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\CTEXdigits' will not be altered.
+
+
+
+! LaTeX3 Error: Message 'today-undef' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.559 \msg_new:nnnn { ctex } { today-undef }
+                                            
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'today-undef'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.d
+ef
+File: ctex-scheme-chinese-article.def 2019/05/29 v2.4.16 Chinese scheme for art
+icle (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+)
+
+Package ctex Warning: Oops! Command `\verse' is NOT patchable.
+(ctex)                
+
+
+Package ctex Warning: Oops! Command `\verse' is NOT patchable.
+(ctex)                
+
+
+Package ctex Warning: Oops! Command `\quotation' is NOT patchable.
+(ctex)                
+
+)
+
+! LaTeX3 Error: Command '\zihao' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.636 ... \ctex_zihao:n {#1} \tex_ignorespaces:D }
+                                                  
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\zihao' will not be altered.
+
+
+
+! LaTeX3 Error: Control sequence \ctex_zihao:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.637 \cs_new_protected_nopar:Npn \ctex_zihao:n
+                                                #1
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_zihao:n' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1->\prop_get:NnNTF \c__ctex_font_size_prop
+{#1}\l__ctex_font_size_tl {\exp_after:wN \fontsize \l__ctex_font_size_tl
+\selectfont }{\msg_error:nnn {ctex}{fontsize}{#1}}
+
+
+
+! LaTeX3 Error: Message 'fontsize' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.643 \msg_new:nnnn { ctex } { fontsize }
+                                         
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'fontsize'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Control sequence \c__ctex_font_size_prop already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.650 \prop_new:N \c__ctex_font_size_prop
+                                         
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__ctex_font_size_prop' but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->\s__prop \__prop_pair:wn 8\s__prop
+{{5.01874}{6.02249}}\__prop_pair:wn 7\s__prop
+{{5.52061}{6.62474}}\__prop_pair:wn -6\s__prop
+{{6.52437}{7.82924}}\__prop_pair:wn 6\s__prop
+{{7.52812}{9.03375}}\__prop_pair:wn -5\s__prop
+{{9.03374}{10.84048}}\__prop_pair:wn 5\s__prop
+{{10.53937}{12.64725}}\__prop_pair:wn -4\s__prop
+{{12.045}{14.454}}\__prop_pair:wn 4\s__prop
+{{14.05249}{16.86299}}\__prop_pair:wn -3\s__prop
+{{15.05624}{18.06749}}\__prop_pair:wn 3\s__prop
+{{16.06}{19.272}}\__prop_pair:wn -2\s__prop
+{{18.06749}{21.68098}}\__prop_pair:wn 2\s__prop
+{{22.08249}{26.499}}\__prop_pair:wn -1\s__prop
+{{24.09}{28.90799}}\__prop_pair:wn 1\s__prop
+{{26.09749}{31.31699}}\__prop_pair:wn -0\s__prop
+{{36.135}{43.362}}\__prop_pair:wn 0\s__prop {{42.15749}{50.58899}}
+
+
+
+! LaTeX3 Error: Control sequence \c__ctex_font_size_seq already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.651 \seq_new:N \c__ctex_font_size_seq
+                                       
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\c__ctex_font_size_seq'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->\s__seq \__seq_item:n {8}\__seq_item:n {7}\__seq_item:n
+{-6}\__seq_item:n {6}\__seq_item:n {-5}\__seq_item:n {5}\__seq_item:n
+{-4}\__seq_item:n {4}\__seq_item:n {-3}\__seq_item:n {3}\__seq_item:n
+{-2}\__seq_item:n {2}\__seq_item:n {-1}\__seq_item:n {1}\__seq_item:n
+{-0}\__seq_item:n {0}
+
+
+
+! LaTeX3 Error: Control sequence \__ctex_save_font_size:nn already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.652 ...ected_nopar:Npn \__ctex_save_font_size:nn
+                                                   #1#2
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\__ctex_save_font_size:nn' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1#2->\use:x {\prop_gput:Nnn \exp_not:N
+\c__ctex_font_size_prop {#1}{{\dim_to_decimal:n {#2}}{\dim_to_decimal:n
+{(#2)*6/5}}}}\seq_gput_right:Nn \c__ctex_font_size_seq {#1}
+
+
+
+! LaTeX3 Error: Control sequence \ctex_declare_math_sizes:nnnn already
+(LaTeX3)        defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.684 ...d_nopar:Npn \ctex_declare_math_sizes:nnnn
+                                                   #1#2#3#4
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\ctex_declare_math_sizes:nnnn' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1#2#3#4->\__ctex_get_font_sizes:Nn \l__ctex_font_size_tl
+{{#1}{#2}{#3}{#4}}\exp_after:wN \DeclareMathSizes \l__ctex_font_size_tl 
+
+
+
+! LaTeX3 Error: Control sequence \__ctex_get_font_sizes:Nn already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.689 ...ected_nopar:Npn \__ctex_get_font_sizes:Nn
+                                                   #1#2
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\__ctex_get_font_sizes:Nn' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1#2->\tl_clear:N #1\tl_map_inline:nn {#2}{\prop_get:NnNTF
+\c__ctex_font_size_prop {##1}\l__ctex_tmp_tl {\tl_put_right:Nx #1{{\tl_head:N
+\l__ctex_tmp_tl }}}{\tl_put_right:Nx #1{{\dim_to_decimal:n {##1}}}}}
+
+
+
+! LaTeX3 Error: Control sequence \ctex_set_font_size:Nnn already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.719 ...new_protected:Npn \ctex_set_font_size:Nnn
+                                                   #1#2#3
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\ctex_set_font_size:Nnn' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected\long macro:#1#2#3->\prop_get:NnNTF \c__ctex_font_size_prop
+{#2}\l__ctex_font_size_tl {\exp_after:wN \__ctex_set_font_size:nnNn
+\l__ctex_font_size_tl #1{#3}}{\msg_error:nnn {ctex}{fontsize}{#2}}
+
+
+
+! LaTeX3 Error: Control sequence \__ctex_set_font_size:nnNn already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.725 ..._protected:Npn \__ctex_set_font_size:nnNn
+                                                   #1#2#3#4
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\__ctex_set_font_size:nnNn' but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected\long macro:#1#2#3#4->\cs_set_protected_nopar:Npn #3{\@setfontsize
+#3{#1}{#2}#4}
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2019/05/29 v2.4.16 c5size option (CTEX)
+)
+
+! LaTeX3 Error: Command '\CTeX' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.740   { C \TeX }
+                  
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\CTeX' will not be altered.
+
+
+
+! LaTeX3 Error: Control sequence \ctex_fontset_error:n already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.751 ...protected_nopar:Npn \ctex_fontset_error:n
+                                                   #1
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_fontset_error:n'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:#1->\msg_critical:nnn {ctex}{fontset-unavailable}{#1}
+
+
+
+! LaTeX3 Error: Message 'fontset-unavailable' for module 'ctex' already
+(LaTeX3)        defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.754 ...et~`#1'~is~unavailable~in~current~mode. }
+                                                  
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'fontset-unavailable'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Control sequence \ctex_load_fontset: already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.755 ...w_protected_nopar:Npn \ctex_load_fontset:
+                                                  
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\ctex_load_fontset:'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  \protected macro:->\tl_if_empty:NTF \g__ctex_fontset_tl
+{\ctex_detected_platform: \ctex_file_input:n {ctex-fontset-\g__ctex_fontset_tl
+.def}}{\file_if_exist:nTF {ctex-fontset-\g__ctex_fontset_tl
+.def}{\ctex_file_input:n {ctex-fontset-\g__ctex_fontset_tl .def}}{\use:x
+{\ctex_detected_platform: \msg_error:nnxx
+{ctex}{fontset-not-found}{\g__ctex_fontset_tl }{\exp_not:N \g__ctex_fontset_tl
+}}\ctex_file_input:n {ctex-fontset-\g__ctex_fontset_tl .def}}}
+
+
+
+! LaTeX3 Error: Message 'fontset-not-found' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.777 \msg_new:nnnn { ctex } { fontset-not-found }
+                                                  
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'fontset-not-found'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Message 'fontset-loaded' for module 'ctex' already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.806 \msg_new:nnnn { ctex } { fontset-loaded }
+                                               
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'fontset-loaded'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+
+! LaTeX3 Error: Message 'fontset-only-preamble' for module 'ctex' already
+(LaTeX3)        defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.815   }
+         
+
+This is a coding error.
+
+LaTeX was asked to define a new message called 'fontset-only-preamble'
+by the module 'ctex': this message already exists.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2019/05/29 v2.4.16 Windows fonts definition (CTE
+X)
+
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2019/05/29 v2.4.16 Windows fonts definition f
+or Vista or later version (CTEX)
+
+
+! LaTeX3 Error: Control sequence \l__ctex_msyh_suffix_tl already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.33 \tl_new:N \l__ctex_msyh_suffix_tl
+                                      
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\l__ctex_msyh_suffix_tl' but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->.ttc
+
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault' (SimSun(0)).
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKsfdefault' (Microsoft YaHei).
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault' (FangSong).
+
+
+Package xeCJK Warning: Redefining CJKfamily `zhkai' (KaiTi).
+
+
+Package xeCJK Warning: Redefining CJKfamily `zhfs' (FangSong).
+
+
+Package xeCJK Warning: Redefining CJKfamily `zhsong' (SimSun).
+
+
+Package xeCJK Warning: Redefining CJKfamily `zhhei' (SimHei).
+
+
+Package xeCJK Warning: Redefining CJKfamily `zhli' (LiSu).
+
+
+Package xeCJK Warning: Redefining CJKfamily `zhyou' (YouYuan).
+
+
+Package xeCJK Warning: Redefining CJKfamily `zhyahei' (Microsoft YaHei).
+
+
+! LaTeX3 Error: Command '\songti' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.111 ...d \songti   { } { \CJKfamily { zhsong } }
+                                                  
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\songti' will not be altered.
+
+
+
+! LaTeX3 Error: Command '\heiti' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.112 ...nd \heiti    { } { \CJKfamily { zhhei } }
+                                                  
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\heiti' will not be altered.
+
+
+
+! LaTeX3 Error: Command '\fangsong' already defined!
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.113 ...and \fangsong { } { \CJKfamily { zhfs } }
+                                                  
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 6854 strings out of 479418
+ 204886 string characters out of 5888104
+ 488515 words of memory out of 5000000
+ 24326 multiletter control sequences out of 15000+600000
+ 532540 words of font info for 37 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 56i,0n,68p,389b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.
